@@ -6,7 +6,7 @@ else:
     from config import Config
 
 class Translation(object):
-    START_TEXT = f"""<b>Hello there,</b>
+    START_TEXT = f"""<b>Hello,</b>
     
 I am a <b>Mega Link Downloader</b> bot!
 
